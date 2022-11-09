@@ -13,6 +13,7 @@ public class OkulMain {
             int ogrenciSayisi = 1;
             Scanner oku = new Scanner(System.in);
             Scanner okuInt = new Scanner(System.in);
+
             do {
                 System.out.print(ogrenciSayisi + ".Öğrencinin Adı=");
                 String ogrAd = oku.nextLine();

@@ -21,6 +21,7 @@ public class Okul {
         this.okulAd = okulAd;
     }
 
+
     public int getMaxOgrenciSayisi() {
         return maxOgrenciSayisi;
     }

@@ -49,6 +49,7 @@ public class Ogrenci {
         this.yas = yas;
     }
 
+
     @Override
     public String toString() {
         return "Ogrenci{" +
